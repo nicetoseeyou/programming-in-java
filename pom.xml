@@ -23,6 +23,7 @@
 
     <modules>
         <module>common-utils</module>
+        <module>data-structures-algorithm-analysis</module>
     </modules>
 
     <dependencyManagement>
